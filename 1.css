@@ -1,0 +1,253 @@
+*{margin:0;padding:0; }
+
+.part5 .h1 {
+    font-size: 23px;
+    padding-bottom:  23px;
+}
+
+.part5 {
+    background: #2c3e50;
+    color:  white;
+    padding: 59px;
+}
+
+.part5 li {
+    float:  left;
+    list-style:  none;
+}
+
+.part5 li a {color:  white;font-size:  25px;padding: 12px 20px;border: 2px solid white;border-radius:  50%;margin-left: 13px;transition: 0.4s;text-decoration:  none;}
+
+.part5 ul li a:hover {
+    background:  white;
+    color: green;
+}
+
+part5 li {
+    \: left;
+}
+
+.part5 ul {
+}
+
+.part5 p {
+    font-size: 17px;
+}
+
+.part4 button.btn.btn-primary {
+    background: #18bc9c;
+    border:  none;
+    font-size:  20px;
+    padding: 15px 18px;
+}
+
+.btn-primary:hover, .btn-primary:focus, .btn-primary.focus, .btn-primary:active, .btn-primary.active, .open > .dropdown-toggle.btn-primary {
+    /* background:  black; */
+}
+
+.part4 textarea {
+    border:  none;
+    border-bottom: 1px solid #aba6a6b8;
+    font-size:  20px;
+    padding-left:  12px;
+    color: #1c242b69;
+    width:  100%;
+}
+
+input.form-control {
+    border: 0 solid;
+    box-shadow: 0 0 0 transparent;
+    border-bottom: 1px solid #999999;
+    padding-bottom: 25px;
+    display:  block;
+    padding-top: 23px;
+    font-size: 20px;
+}
+
+.part4 {
+    padding: 100px;
+}
+
+a.btn.btn-default.nutdown {
+    background:  none;
+    border:  2px solid white;
+    padding: 13px 20px;
+    font-size: 19px;
+    color: #2c3e50;
+    margin:  33px auto;
+}
+.part3 h1 {
+    text-transform:  uppercase;
+    font-weight:  700;
+    color:  white;
+    font-size: 45px;
+    padding-bottom:  11px;
+}
+
+.part3 {
+    background: #18bc9c;
+    padding:  61px;
+}
+.zoom.fa.fa-search-plus {
+    color:  white;
+    font-size:  60px;
+    padding-top:  100px;
+}
+
+.blue {
+    position:  absolute;
+    background: #18bc9cb8;
+    width:  100%;
+    height:  100%;
+    top: 0px;
+    left:  0px;
+    opacity:  0;
+    transition: all 0.3s;
+    cursor:  pointer;
+}
+
+.sp {
+    position:  relative;
+    margin-bottom: 25px;
+}
+
+.sp:hover .blue {
+    opacity:  1;
+}
+
+.part2 .fa.fa-star, .part4 .fa.fa-star {
+    background: white;
+    color: #2C3E50;
+}
+
+.part2 h1, .part4 h1 {
+    text-transform:  uppercase;
+    font-weight: 700;
+    font-size: 43px;
+    color: #2C3E50;
+}
+
+.part2 {
+    padding:  110px;
+}
+
+.part1 h3 {
+    color:  white;
+    font-size: 21px;
+}
+
+.part1 h1 {
+    text-transform:  uppercase;
+    padding: 30px;
+    font-size: 66px;
+    font-weight: 800;
+    color:  white;
+}
+
+nav.navbar.navbar-default {
+    margin-bottom: 0px;
+    border:  none;
+}
+
+.part1 {
+    padding: 90px;
+    background: #18BC9C;
+}
+body{
+	font-family: 'Montserrat', sans-serif;
+}
+
+.part3 p {
+    color:  white;
+    font-size: 19px;
+    font-weight:  normal;
+}
+
+.part2 .star, .part4 .star {
+    border-top: 5px solid #2C3E50;
+    margin-top:  23px;
+}
+
+.star {
+    width: 20%;
+    margin:  auto;
+    border-top: 5px solid white;
+}
+
+.fa.fa-star {
+    color:  white;
+    font-size: 31px;
+    background: #18BC9C;
+    position:  relative;
+    top: -18px;
+    width: 43px;
+}
+ul.nav.navbar-nav.navbar-right {
+    color: white;
+    transition:  all 0.4s;
+}
+
+.nho ul.nav.navbar-nav.navbar-right {
+    margin-top:  -17px;
+}
+
+
+.navbar-default .navbar-nav > li > a {
+    color:  white;
+    margin-top: 35px;
+    font-size: 15px;
+    text-transform:  uppercase;
+    font-weight:  bold;
+}
+
+navbar navbar-default navbar-fixed-top nho a {
+}
+
+.to a {
+    margin-top: 14px;
+}
+
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
+    background: #223140;
+    color:  white;
+}
+
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+    color: #18BC9C;
+}
+
+.navbar-default .navbar-brand {
+    color:  white;
+    text-transform:  uppercase;
+    font-size: 30px;
+    font-weight:  bold;
+    padding-top: 50px;
+}
+
+.nho .navbar-default .navbar-brand {
+}
+
+.nho a.navbar-brand {
+    padding-top:  31px;
+}
+
+.navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus {color: #18BC9C;}
+
+a.navbar-brand {
+    color:  white;
+}
+
+
+nav.navbar.navbar-default {
+    /* padding: 32px; */
+    background: #2C3E50;
+    height:  112px;
+    transition:  all 0.4s;
+}
+
+nav.navbar.navbar-default.navbar-fixed-top.nho {
+    height:  83px;
+}
+ 
+
+ 
