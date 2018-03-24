@@ -1,0 +1,131 @@
+*{margin:0;padding:0; }
+
+.panel-title > a:hover, a:focus {
+    text-decoration: none;
+}
+
+a {}
+
+h4.panel-title {
+    text-decoration: none;
+}
+
+.nutthem {
+    margin-bottom: 20px;
+    margin-left: 5px;
+}
+
+.wellcome h4 {
+    float: right;
+}
+
+button.btn.btn-primary a {
+    color: white;
+    text-decoration: none;
+}
+
+.banner {
+    margin-top: 91px;
+}
+
+.logo img {
+    width: 218px;
+    padding-bottom: 25px;
+}
+
+.dropdown-menu > li > a:hover, .dropdown-menu > li > a:focus {
+}
+
+.navbar-default .navbar-nav > li > a {
+    color: white;
+}
+
+.navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:hover, .navbar-default .navbar-nav > .open > a:focus {
+    background-color: #2C3E50;
+    color: white;
+}
+
+.navbar-default .navbar-nav > li > a:hover {
+    color: #18BC9C;
+}
+
+ul.nav.navbar-nav.navbar-right {
+    font-size: 17px;
+    padding-top: 5px;
+}
+body{
+    background-image: url("images/bgmain.png");
+    font-family: 'Montserrat', sans-serif;
+}
+
+.jumbotron h1 {
+    font-size: 20px;
+    padding-bottom: 5px;
+}
+
+.jumbotron {
+    padding: 0;
+    margin-top: 10px;
+}
+
+.nutlog {
+    float: right;
+    padding-bottom: 20px;
+}
+
+li.nutlog {
+    padding-top: 10px;
+    padding-left: 144px;
+}
+.navbar-default .navbar-brand {
+    color: white;
+    font-size: 28px;
+    font-weight: 800;
+    padding-top: 18px;
+}
+
+.navbar-default .navbar-brand:hover {
+    color: #18BC9C;
+}
+
+nav.navbar.navbar-default {
+    height: 65px;
+    background-color: #2C3E50;
+}
+.part5 .h1 {
+    font-size: 20px;
+    padding-bottom:  23px;
+}
+
+.part5 {
+    background: #2c3e50;
+    color:  white;
+    padding: 59px;
+}
+
+.part5 li {
+    float:  left;
+    list-style:  none;
+}
+
+.part5 li a {color:  white;font-size:  20px;padding: 12px 20px;border: 2px solid white;border-radius:  50%;margin-left: 13px;transition: 0.4s;text-decoration:  none;}
+
+.part5 ul li a:hover {
+    background:  white;
+    color: green;
+}
+
+part5 li {
+    \: left;
+}
+
+.part5 ul {
+}
+
+.part5 p {
+    font-size: 15px;
+}
+.nutnhap{
+    padding-bottom: 20px;
+}
+
